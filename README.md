@@ -145,8 +145,6 @@ Two presentations are included:
 - 📊 [View Final Presentation](presentations/Group%201%20-%20Final%20Presentation.pdf)
 - 📊 [View Security Profiles Presentation](presentations/Week%201%20Presentation%20-%20Understanding%20FortiGate%20Security%20Profiles.pdf)
 
-These presentations are designed to be **self-explanatory** and do not require live speaking.
-
 ---
 
 ## 🔧 FortiGate Configuration File
