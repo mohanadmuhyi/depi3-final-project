@@ -115,12 +115,10 @@ All security features were fully tested and verified:
 ---
 
 ## 🎥 Demo Video
+Click the link below to watch the full project demonstration:
 
-The full project demonstration is available here:
+[▶️ Watch Demo Video](video/Demo%20Video%20-%20Group%201.mp4)
 
-📁 `media/demo-video.mp4`
-
-If the video is not visible on GitHub due to size limits, it can be accessed using the external link below (if provided by the author).
 
 ---
 
