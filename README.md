@@ -121,22 +121,20 @@ Click the link below to watch the full project demonstration:
 
 
 ---
-
 ## 📄 Project Report
 
 The complete technical report is available here:
 
-📁 `reports/final-report.pdf`
+[📄 View Final Report](reports/FortiGate%20Security%20Profiles%20Report%20-%20Group%201.pdf)
 
 This report includes:
-
-* Full topology explanation
-* IP addressing & port assignments
-* Policy configuration
-* Web filtering configuration
-* Application control setup
-* Anti-virus testing
-* Log verification
+- Full topology explanation  
+- IP addressing & port assignments  
+- Policy configuration  
+- Web filtering configuration  
+- Application control setup  
+- Anti-virus testing  
+- Log verification  
 
 ---
 
@@ -144,8 +142,8 @@ This report includes:
 
 Two presentations are included:
 
-📁 `presentations/final-presentation.pptx`
-📁 `presentations/security-profiles-presentation.pptx`
+- [📊 View Final Presentation](presentations/Group%201%20-%20Final%20Presentation.pdf)
+- [📊 View Security Profiles Presentation](presentations/Week%201%20Presentation%20-%20Understanding%20FortiGate%20Security%20Profiles.pdf)
 
 These presentations are designed to be **self-explanatory** and do not require live speaking.
 
@@ -155,7 +153,7 @@ These presentations are designed to be **self-explanatory** and do not require l
 
 The FortiGate running configuration used in the project is available here:
 
-📁 `fortigate-config/running-config.conf`
+[🔧 FortiGate Running Config](fortigate-config/running-config.conf)
 
 This file can be restored directly on any FortiGate device or FortiGate VM.
 
@@ -165,7 +163,8 @@ This file can be restored directly on any FortiGate device or FortiGate VM.
 
 The topology file is included here:
 
-📁 `gns3/fortigate-security-profiles.gns3`
+[🧭 GNS3 Topology File](gns3/depi.gns3)
+
 
 ⚠️ **Important Notice:**
 
