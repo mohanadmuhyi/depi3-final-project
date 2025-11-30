@@ -117,7 +117,7 @@ All security features were fully tested and verified:
 ## 🎥 Demo Video
 Click the link below to watch the full project demonstration:
 
-[▶️ Watch Demo Video](https://drive.google.com/file/d/1g1xyuPilYWKqMmo9uiHKpVWbe0jo2mUt/view?usp=drive_link)
+▶️ [Watch Demo Video](https://drive.google.com/file/d/1g1xyuPilYWKqMmo9uiHKpVWbe0jo2mUt/view?usp=drive_link)
 
 
 ---
@@ -125,7 +125,7 @@ Click the link below to watch the full project demonstration:
 
 The complete technical report is available here:
 
-[📄 View Final Report](reports/FortiGate%20Security%20Profiles%20Report%20-%20Group%201.pdf)
+📄 [View Final Report](reports/FortiGate%20Security%20Profiles%20Report%20-%20Group%201.pdf)
 
 This report includes:
 - Full topology explanation  
@@ -142,8 +142,8 @@ This report includes:
 
 Two presentations are included:
 
-- [📊 View Final Presentation](presentations/Group%201%20-%20Final%20Presentation.pdf)
-- [📊 View Security Profiles Presentation](presentations/Week%201%20Presentation%20-%20Understanding%20FortiGate%20Security%20Profiles.pdf)
+- 📊 [View Final Presentation](presentations/Group%201%20-%20Final%20Presentation.pdf)
+- 📊 [View Security Profiles Presentation](presentations/Week%201%20Presentation%20-%20Understanding%20FortiGate%20Security%20Profiles.pdf)
 
 These presentations are designed to be **self-explanatory** and do not require live speaking.
 
@@ -153,7 +153,7 @@ These presentations are designed to be **self-explanatory** and do not require l
 
 The FortiGate running configuration used in the project is available here:
 
-[🔧 FortiGate Running Config](fortigate-config/running-config.conf)
+🔧 [FortiGate Running Config](fortigate-config/running-config.conf)
 
 This file can be restored directly on any FortiGate device or FortiGate VM.
 
@@ -163,7 +163,7 @@ This file can be restored directly on any FortiGate device or FortiGate VM.
 
 The topology file is included here:
 
-[🧭 GNS3 Topology File](gns3/depi.gns3)
+🧭 [GNS3 Topology File](gns3/depi.gns3)
 
 
 ⚠️ **Important Notice:**
